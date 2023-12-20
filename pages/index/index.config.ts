@@ -1,4 +1,4 @@
 export default definePageConfig({
-  navigationBarTitleText: "2024无限极全球年会",
+  navigationBarTitleText: "首页",
   navigationStyle: "custom",
 });
